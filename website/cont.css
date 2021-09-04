@@ -1,0 +1,21 @@
+body {
+    background-image: url(CoolBackground.jpg);
+    
+}
+
+p {
+    color: green;
+    font-size: 17px;
+}
+
+h1 {
+    color: red
+}
+
+ul {
+    color: red;
+    font-size: 24px;    
+}
+h2 {
+    color: blue;
+}
